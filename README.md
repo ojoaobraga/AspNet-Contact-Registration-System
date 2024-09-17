@@ -38,7 +38,7 @@ Além disso, busca-se aprimorar habilidades em tecnologias como Entity Framework
 - [x] Listagem de contatos
 - [x] Deleção de contatos
 - [x] Alteração de contatos
-- [ ] Paginação / Filtro de busca
+- [x] Paginação / Filtro de busca
 - [ ] Cadastro de Usuários
 - [ ] Tela de login
 - [ ] Seção do Usuário
