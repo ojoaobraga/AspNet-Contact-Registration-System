@@ -34,21 +34,36 @@ In addition, we seek to improve skills in technologies such as Entity Framework 
 <br />
 
 ### Features
-- [x] Contact registration
-- [x] Contact list
-- [x] Deletion of contacts
-- [x] Changing contacts
-- [x] Pagination / Search filter
-- [ ] User Registration
-- [ ] Login screen
-- [ ] User Section
-- [ ] Profile control
-- [ ] User password encryption
-- [ ] Password reset screen
-- [ ] SMTP Email Sending
-- [ ] Screen to change password
-- [ ] Relationship between tables
-- [ ] MODAL
+:heavy_check_mark: Contact registration
+<br />
+:heavy_check_mark: Contact list
+<br />
+:heavy_check_mark: Deletion of contacts
+<br />
+:heavy_check_mark: Changing contacts
+<br />
+:heavy_check_mark: Pagination / Search filter
+<br />
+:x: User Registration
+<br />
+:x: Login screen
+<br />
+:x: User Section
+<br />
+:x: Profile control
+<br />
+:x: User password encryption
+<br />
+:x: Password reset screen
+<br />
+:x: SMTP Email Sending
+<br />
+:x: Screen to change password
+<br />
+:x: Relationship between tables
+<br />
+:x: MODAL
+<br />
 
 <br />
 <br />
