@@ -13,6 +13,8 @@ builder.Services.AddDbContextPool<BancoContext>(options => options.UseMySql(mySq
 
 builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
 
+builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
