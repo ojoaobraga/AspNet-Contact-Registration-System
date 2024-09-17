@@ -1,14 +1,14 @@
-## Sistema de Cadastro de Contatos
+## Contact Registration System
 
-### Autor
+### Author
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/37774143?v=4" width="100px;" alt=""/>
-Feito por João Braga, entre em contato!
+Made by João Braga, get in touch!
 
 <a href="https://www.linkedin.com/in/joao-victor-s-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:joao.sbraga@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/_meunomenaoejohn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-### 🖥️ Principais tecnologias
+### 🖥️ Main technologies used
 
 ![Csharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -21,33 +21,33 @@ Feito por João Braga, entre em contato!
 
 <br />
 
-### 🚀 Objetivo do projeto
-Este repositório tem como objetivo reunir estudos e práticas de desenvolvimento utilizando ASP.NET Core com foco em backend C#.
-O projeto também integra o uso do banco de dados MySQL, aplicando conceitos modernos de arquitetura de software e boas práticas no desenvolvimento de APIs RESTful. 
-Além disso, busca-se aprimorar habilidades em tecnologias como Entity Framework Core, injeção de dependência, e desenvolvimento ágil, visando consolidar conhecimento e compartilhar com a comunidade.
+### 🚀 Project objective
+This repository aims to bring together studies and development practices using ASP.NET Core with a focus on the C# backend.
+The project also integrates the use of the MySQL database, applying modern software architecture concepts and best practices in the development of RESTful APIs. 
+In addition, we seek to improve skills in technologies such as Entity Framework Core, dependency injection, and agile development, aiming to consolidate knowledge and share it with the community.
 
 <br />
 
-### 💫 Status do Projeto
-🚧 Em construção... 🚧
+### 💫 Project Status
+🚧 Under construction... 🚧
 
 <br />
 
 ### Features
-- [x] Cadastro de contatos
-- [x] Listagem de contatos
-- [x] Deleção de contatos
-- [x] Alteração de contatos
-- [x] Paginação / Filtro de busca
-- [ ] Cadastro de Usuários
-- [ ] Tela de login
-- [ ] Seção do Usuário
-- [ ] Controle de perfil
-- [ ] Criptografia senha de usuários
-- [ ] Tela para redefinição de senha
-- [ ] Envio de E-mail SMTP
-- [ ] Tela para alterar senha
-- [ ] Relacionamento entre tabelas
+- [x] Contact registration
+- [x] Contact list
+- [x] Deletion of contacts
+- [x] Changing contacts
+- [x] Pagination / Search filter
+- [ ] User Registration
+- [ ] Login screen
+- [ ] User Section
+- [ ] Profile control
+- [ ] User password encryption
+- [ ] Password reset screen
+- [ ] SMTP Email Sending
+- [ ] Screen to change password
+- [ ] Relationship between tables
 - [ ] MODAL
 
 <br />
