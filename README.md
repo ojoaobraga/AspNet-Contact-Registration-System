@@ -44,7 +44,7 @@ In addition, we seek to improve skills in technologies such as Entity Framework 
 <br />
 :heavy_check_mark: Pagination / Search filter
 <br />
-:x: User Registration
+:heavy_check_mark: User Registration
 <br />
 :x: Login screen
 <br />
